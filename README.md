@@ -1,4 +1,6 @@
-# GitCommands
+# GitCommands - Created and Compiled By Gurvir Singh Bhogal
+Please Feel free to use this information for any commercial or educational use.
+
 All git commands merged in a single file.
 
 Git Hub Command Sheet
