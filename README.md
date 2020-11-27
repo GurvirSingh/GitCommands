@@ -1,3 +1,12 @@
+# How to add a new repository (I need this sometimes :D)
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GurvirSingh/test.git
+git push -u origin main
+
 # GitCommands - Created and Compiled By Gurvir Singh Bhogal
 Please Feel free to use this information for any commercial or educational use.
 
